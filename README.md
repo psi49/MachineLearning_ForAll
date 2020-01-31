@@ -1,1 +1,1 @@
-# End-to-End_MachineLearning_Projects
+# Machine Learning Projects for Classification and Regression Applications! 
